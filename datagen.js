@@ -14,4 +14,4 @@ for (var i = 0; i < n; i++) {
     writer.writeRecord([faker.Name.firstName(), faker.Name.lastName(), faker.random.number(200) * 1000]);
 }
 
-console.log('datagen_output.csv ' + "generated at: \n" + __dirname); //datagen_output.csv generated
+console.log('datagen_output.csv ' + "generated at: \n" + __dirname); //datagen_output.csv generated 
