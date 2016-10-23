@@ -1,2 +1,2 @@
-# javascript
-Javascript NodeJS code snippets
+# All about Javascript
+Javascript NodeJS code snippets & useful NPM packages
